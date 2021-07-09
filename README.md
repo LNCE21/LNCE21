@@ -1,4 +1,4 @@
-##   👋 Hi, my name is Lautaro.
+##  👋 Hi, my name is Lautaro.
 #### 👀 I am a front-end developer.
 #### 🌱 I enjoy being in contact with the latest technologies while studying and practicing my skills on a daily basis,  committed to improving them.
 #### 💞️ On a behavioral level, I am an outgoing and proactive person who enjoys problem solving.
