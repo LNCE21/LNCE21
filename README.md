@@ -1,27 +1,12 @@
-## 👋 Hi, my name is Lautaro.
+### Hello everyone, I am Lautaro.
+#### Software developer
+![Software developer](https://media-exp1.licdn.com/dms/image/C4E16AQEb6EcWPMXGng/profile-displaybackgroundimage-shrink_200_800/0/1625006303771?e=1632355200&v=beta&t=7auj4DCyEu4-JNoW8_Vbz3q3jyA-VpU-N4Qilj8Fuyc)
 
 Hi, i'm Lautaro from Argentina, i do software development and i'm focus on the entire front-end spectrum.
 My stack includes Html, Css, Javascript, Git & Github and Figma.
 I have a great passion for IT and I keep myself in constant learning and improving my skills.
+I have a great passion for IT and I keep myself in constant learning and improving my skills.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LNCE21)](https://github.com/anuraghazra/github-readme-stats)
+Skills: HTML/CSS/FIGMA/JAVASCRIPT
 
-
-
-
-
-
-
-
-
-#### 👀 I am a front-end developer.
-#### 🌱 I enjoy being in contact with the latest technologies while studying and practicing my skills on a daily basis,  committed to improving them.
-#### 💞️ On a behavioral level, I am an outgoing and proactive person who enjoys problem solving.
-#### 💞️ I value diversity and inclusion to form work teams, and I have a knack for adapting to new environments and for learning.
-####    hhbhbh 
-
-
-<!---
-LNCE21/LNCE21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on this page. 
