@@ -1,4 +1,4 @@
-
+## 👋 Hi, my name is Lautaro.
 
 Hi, i'm Lautaro from Argentina, i do software development and i'm focus on the entire front-end spectrum.
 My stack includes Html, Css, Javascript, Git & Github and Figma.
@@ -13,7 +13,7 @@ I have a great passion for IT and I keep myself in constant learning and improvi
 
 
 
-## 👋 Hi, my name is Lautaro.
+
 #### 👀 I am a front-end developer.
 #### 🌱 I enjoy being in contact with the latest technologies while studying and practicing my skills on a daily basis,  committed to improving them.
 #### 💞️ On a behavioral level, I am an outgoing and proactive person who enjoys problem solving.
