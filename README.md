@@ -1,7 +1,7 @@
 # Hello & Welcome
 ### I am Lautaro, a Software developer.
 
-Hi, i'm Lautaro from Argentina, i do software development and i'm focus on the entire front-end spectrum.
+I do software development and i'm focus on the entire front-end spectrum.
 My stack includes Html, Css, Javascript, Git & Github and Figma.
 I have a great passion for IT and I keep myself in constant learning and improving my skills.
 I have a great passion for IT and I keep myself in constant learning and improving my skills.
