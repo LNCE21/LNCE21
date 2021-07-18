@@ -7,7 +7,7 @@ I have a great passion for IT and I keep myself in constant learning and improvi
 I have a great passion for IT and I keep myself in constant learning and improving my skills.
 
 ## Skills
-* 💻 HTML
-* 💻 CSS 
-* 💻 FIGMA
+* 📃 HTML
+* 🖌 CSS 
+* 🎴 FIGMA
 * 💻 JAVASCRIPT
