@@ -6,6 +6,10 @@ My stack includes Html, Css, Javascript, Git & Github and Figma.
 I have a great passion for IT and I keep myself in constant learning and improving my skills.
 I have a great passion for IT and I keep myself in constant learning and improving my skills.
 
-Skills: HTML/CSS/FIGMA/JAVASCRIPT
+## Skills
+* HTML
+* CSS
+* FIGMA
+* JAVASCRIPT
 
 - 🔭 I’m currently working on this page. 
