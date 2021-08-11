@@ -5,7 +5,7 @@ I have a great passion for IT and I keep myself in constant learning and improvi
 I am currently working on a project. A landing page. It is in private mode until its completion, but if you want to see a demo, write me and I'll share with you.
 
 ### Skills
+* 🎴 FIGMA
 * 📃 HTML
 * 🖌 CSS 
-* 🎴 FIGMA
 * 💻 JAVASCRIPT
