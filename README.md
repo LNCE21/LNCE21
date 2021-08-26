@@ -8,5 +8,5 @@ I am currently working on a project. A landing page. It is in private mode until
 * 🎴 FIGMA
 * 📃 HTML
 * 🖌 CSS 
-* 🎨 SCSS
+* 🎨 SASS (SCSS)
 * 💻 JAVASCRIPT
