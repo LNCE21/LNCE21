@@ -1,12 +1,9 @@
 <h2 align="center">Hello & Welcome.</h2>
 <h3 align="center">I'm Lautaro, I do software development and I'm focus on the entire front-end spectrum.</h3>
-<h3 align="center">I have a great passion for IT and I keep myself in constant learning and improving my skills.</h3>
-
-<h3 align="center">🔭 I’m currently working on [Adventours](https://lnce21.github.io/Adventours/)</h3>
-
-<h3 align="center">🌱 I’m currently learning **Fullstack development focused on Javascritp and React.**</h3>
-
-<h3 align="center">👯 I'm collaborating on a **bootcamp's group project**</h3>
+<h4 align="center">I have a great passion for IT and I keep myself in constant learning and improving my skills.</h4>
+<h4 align="center">🔭 I’m currently working on [Adventours](https://lnce21.github.io/Adventours/)</h4>
+<h4 align="center">🌱 I’m currently learning **Fullstack development focused on Javascritp and React.**</h4>
+<h4 align="center">👯 I'm collaborating on a **bootcamp's group project**</h4>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
