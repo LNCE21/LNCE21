@@ -1,6 +1,5 @@
 <h2 align="center">Hello & Welcome.</h2>
-<h4 align="center">I'm Lautaro, I do software development, I'm currently learning fullstack development but I'm focus on the entire front-end spectrum (focused on JavaScript and React)</h4>
-<h4 align="center">I have a great passion for IT and I keep myself in constant learning and improving my skills.</h4>
+<h4 align="center">I'm Lautaro, I do software development, I'm currently learning fullstack development but I'm focus on the entire front-end spectrum (focused on JavaScript and React). I have a great passion for IT and I keep myself in constant learning and improving my skills.</h4>
 <h4 align="center">I’m currently working on [Adventours](https://lnce21.github.io/Adventours/) a landing page, and also on a team project for the fullstack bootcamp I'm taking</h4>
 
 <h3 align="left">Languages:</h3>
