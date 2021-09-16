@@ -1,4 +1,4 @@
-<h1 align="center">Hello & Welcome.</h1>
+<h2 align="center">Hello & Welcome.</h2>
 <h3 align="center">I'm Lautaro, I do software development and I'm focus on the entire front-end spectrum.</h3>
 <h3 align="center">I have a great passion for IT and I keep myself in constant learning and improving my skills.</h3>
 
