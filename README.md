@@ -14,7 +14,7 @@
 <br>
 
 <a href="#">
-  <img text-align:"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNCE21&layout=compact" />
+  <img align-self:"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNCE21&layout=compact" />
 </a>
 
 
