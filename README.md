@@ -13,7 +13,7 @@
 </p>
 <br>
 
-<a href="#" align-self:"center">
+<a href="#" align="center">
   <img align-self:"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNCE21&layout=compact" />
 </a>
 
