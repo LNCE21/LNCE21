@@ -13,6 +13,8 @@
 </p>
 <br>
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LNCE21&layout=compact)]
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LNCE21&layout=compact)
+
 </p>
 
