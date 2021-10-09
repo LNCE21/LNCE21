@@ -13,8 +13,9 @@
 </p>
 <br>
 
-<a href="#" align="center">
-  <img align-self:"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNCE21&layout=compact" />
-</a>
+<span style="display:block;text-align:center">
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNCE21&layout=compact" />
+
+</span>
 
