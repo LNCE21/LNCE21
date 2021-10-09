@@ -15,7 +15,7 @@
 
 <span style="display:block;margin: 0 auto;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNCE21&layout=compact" />
+  <img style="display:block;margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNCE21&layout=compact" />
 
 </span>
 
