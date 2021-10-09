@@ -1,8 +1,8 @@
 <h2 align="center">Hello & Welcome.</h2>
 <h4 align="center">I'm Lautaro, I'm currently learning fullstack development, but I'm focus on the entire front-end spectrum (JavaScript and React). I have a great passion for IT and I keep myself in constant learning and improving my skills. I’m currently working on a landing page, It´s a project for the fullstack bootcamp I'm taking...</h4>
-
+<!--
 ![Lautaro's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laraconverso&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
+-->
 <h4 align="left">Languages:</h4>
 <p align="left">
 <h5 align="left"><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  </a>HTML<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  </a>CSS3 
