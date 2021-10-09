@@ -18,7 +18,6 @@
 <br>
 <br>
 <br>
-<h4 align="center">Upcoming Languages</h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNCE21&layout=compact" />
 </p>
 
